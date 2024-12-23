@@ -1,1 +1,1 @@
-# samsung-provisioner
+# Samsung Provisioner
